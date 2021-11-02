@@ -1,0 +1,4 @@
+Hello Node.js 
+สวัสดีผู้เรียนพื้นฐาน node.js ทุกๆท่าน
+ไฟล์นี้ถูกเขียนเมื่อ
+ Wed Nov 03 2021 01:08:51 GMT+0700 (Indochina Time)
